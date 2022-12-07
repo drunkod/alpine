@@ -30,4 +30,4 @@ jobs:
           context: .
           platforms: linux/arm64
           push: true
-          tags: martinussuherman/alpine:3.17-arm64v8
+          tags: drunkod/alpine:3.17-arm64v8
